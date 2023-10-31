@@ -10,4 +10,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [x] Criar o projeto com vuejs e vite
 - [x] Criar repositório no github
 - [x] Versionar aplicação
-- [ ] Instalar e configurar o [Vuetify](https://vuetifyjs.com/en/) - [Referência] (https://www.linkedin.com/pulse/como-adicionar-o-vuetify-em-um-projeto-vue-3-com-vite-bruno-costa/?originalSubdomain=pt) 
+- [x] Instalar e configurar o [Vuetify](https://vuetifyjs.com/en/) - [Referência] (https://www.linkedin.com/pulse/como-adicionar-o-vuetify-em-um-projeto-vue-3-com-vite-bruno-costa/?originalSubdomain=pt) 
